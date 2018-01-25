@@ -1,2 +1,2 @@
 # campus_crud
-CI github tuleap gogs
+CI github tuleap gogs develop
